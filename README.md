@@ -1,4 +1,4 @@
-# ProgT-
+# Ülesanne 3
 
 Alguses tekkis mul probleem, kuna ma määrasin palli faili asukoha valesti. Ma ei saanud aru, miks see ei töötanud, ja olin päris segaduses. Pärast mõningat katsetamist ja vigu hakkasin siiski aru saama, kus täpselt oli probleem. Lõpuks suutsin vea parandada ja asusin edasi töötama.
 
